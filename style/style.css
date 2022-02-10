@@ -1,0 +1,39 @@
+body{margin: 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+    background: radial-gradient(rgb(70, 70, 88),rgb(255, 255, 255))}
+header{background:linear-gradient(black,rgb(109, 109, 109),black);
+width: 1250px;
+height: 200px;
+margin: 0px 0px;
+border-bottom:solid rgb(43, 43, 43);}
+.hello{padding-left: 100px;
+padding-top:10px;
+font-size: 40px;
+color: rgb(255, 255, 255);}
+main{;
+width:  1250px;
+height: 800px;}
+.spis{padding-left: 100px;
+    padding-top: 30px;
+color: white;
+font-size: 30px;
+text-shadow: 0px 0px 6px;;}
+.pr{
+width: 500px;
+height: 500px;
+background-image: url(https://www.dpersonnel.ru/assets/images/poisk-programmista.jpg);
+background-position: center;
+font-size: 500px;
+font-size: 500px;
+float: right;
+margin: 25px 25px;
+border:solid rgb(24, 24, 24);
+box-shadow: 0px 0px 6px;}
+.rich{background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=2000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2017%2F08%2Frich-piana.jpg);
+background-position: right;
+width: 500px;
+height: 500px;
+margin: 25px;
+background-size: 500px 700px;
+border: solid slategray;
+shadow:0px 0px 6px}
